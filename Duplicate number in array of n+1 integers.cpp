@@ -56,7 +56,7 @@ public:
         
         */
         
-        // 3rd approach : O(n) time and O(1) space
+        // 3rd approach is the tortoise method : O(n) time and O(1) space
         int slow = nums[0];
         int fast = nums[0];
         
