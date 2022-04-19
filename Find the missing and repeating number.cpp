@@ -50,4 +50,4 @@ int main()
 	}
 	return 0;
 }
-
+// refer to this link for more approaches : https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
